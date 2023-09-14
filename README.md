@@ -23,3 +23,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmealan2000&show_icons=true&locale=en&layout=compact" alt="itsmealan2000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmealan2000&show_icons=true&locale=en" alt="itsmealan2000" /></p>
+
+              
+- name: generate-snake-game-from-github-contribution-grid
+
+
+              
+  uses: Platane/snk@v3.0.0
+
+
