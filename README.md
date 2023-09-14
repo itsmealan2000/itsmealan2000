@@ -23,4 +23,18 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmealan2000&show_icons=true&locale=en&layout=compact" alt="itsmealan2000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmealan2000&show_icons=true&locale=en" alt="itsmealan2000" /></p>
-![snake gif](https://github.com/itsmealan2000/itsmealan2000/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/itsmealan2000/itsmealan2000/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/itsmealan2000/itsmealan2000/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/itsmealan2000/itsmealan2000/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
