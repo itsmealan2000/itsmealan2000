@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [REVUATOR](https://github.com/itsmealan2000/Revuator.git)
 
-- 🌱 I’m currently learning **FLUTTER,ANGULAR**
+- 🌱 I’m currently learning **FLUTTER,MER(A)N**
 
 - 👨‍💻 PORTFOLIO [https://itsmealan2000.github.io/sample_PORTFOLIO/](https://itsmealan2000.github.io/sample_PORTFOLIO/)
 
