@@ -25,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmealan2000&show_icons=true&locale=en" alt="itsmealan2000" /></p>
 <br>
 
-![snake gif](https://github.com/itsmealan2000/itsmealan2000/blob/output/github-contribution-grid-snake.gif)
-
