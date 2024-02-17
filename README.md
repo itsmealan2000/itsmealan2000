@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm ALAN V JOHN</h1>
 <h3 align="center">Design-Driven Front-End Developer & UI/UX Designer</h3>
 
-- 🔭 I’m currently working on [REVUATOR](https://github.com/itsmealan2000/Revuator.git)
-
+- 🔭 I’m currently working on **MER(A)N Projects**
 - 🌱 I’m currently learning **MER(A)N**
 
 - 👨‍💻 PORTFOLIO [https://itsmealan2000.github.io/sample_PORTFOLIO/](https://itsmealan2000.github.io/sample_PORTFOLIO/)
