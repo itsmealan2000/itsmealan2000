@@ -3,9 +3,6 @@
 
 - 🔭 I’m currently working on **MER(A)N Projects**
 - 🌱 I’m currently learning **MER(A)N**
-
-- 👨‍💻 PORTFOLIO [https://itsmealan2000.github.io/sample_PORTFOLIO/](https://itsmealan2000.github.io/sample_PORTFOLIO/)
-
 - 📫 How to reach me **alanjohn9626@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
