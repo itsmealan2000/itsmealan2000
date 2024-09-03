@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alanvjohn" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="alanvjohn" height="30" width="40" /></a>
+<a href="https://twitter.com/alanvjohn" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-x-icon-download-in-svg-png-gif-file-formats--logo-social-media-logos-pack-icons-7740647.png?f=webp&w=256" alt="alanvjohn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alan-v-john" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-v-john" height="30" width="40" /></a>
 <a href="https://fb.com/alanvjohn.j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alanvjohn.j" height="30" width="40" /></a>
 <a href="https://instagram.com/alan__v__john" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alan.v.john" height="30" width="40" /></a>
