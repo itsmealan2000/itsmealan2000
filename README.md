@@ -3,7 +3,7 @@
 
 <h3>
   💫 About Me:🔭 I’m currently working on Flutter Projects<br>🌱 I’m currently learning Flutter<br>📫 How to reach me 
-  <a href="mailto:alanjohn9626@gmail.com">
+  <a href="mailto:alanjohn9626@gmail.com">alanjohn9626@gmail.com</a>
 </h3>
 
 <h3 align="left">Connect with me:</h3>
