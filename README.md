@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm ALAN V JOHN</h1>
 <h3 align="center">Software Developer & UI/UX Designer</h3>
 
-# 💫 About Me:🔭 I’m currently working on Flutter Projects<br>🌱 I’m currently learning Flutter<br>📫 How to reach me alanjohn9626@gmail.com
+<h3>
+  💫 About Me:🔭 I’m currently working on Flutter Projects<br>🌱 I’m currently learning Flutter<br>📫 How to reach me alanjohn9626@gmail.com
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
